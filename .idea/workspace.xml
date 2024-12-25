@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba97b948-72e3-4758-8255-41e149a9d720" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7601.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7602.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7603.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7605.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7606.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7607.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7608.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7609.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7610.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7611.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7612.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7613.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7614.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7615.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7616.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7617.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7618.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7619.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7620.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7621.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7622.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7623.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7624.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7625.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7626.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7627.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7628.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7629.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7630.JPG" afterDir="false" />
-    </list>
+    <list default="true" id="ba97b948-72e3-4758-8255-41e149a9d720" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -441,7 +411,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735127719202</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="85">
+      <option name="closed" value="true" />
+      <created>1735127848573</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1735127848573</updated>
+    </task>
+    <task id="LOCAL-00044" summary="85">
+      <option name="closed" value="true" />
+      <created>1735128089874</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1735128089874</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
