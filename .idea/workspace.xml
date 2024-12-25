@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba97b948-72e3-4758-8255-41e149a9d720" name="Changes" comment="" />
+    <list default="true" id="ba97b948-72e3-4758-8255-41e149a9d720" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/3B9A7113.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7113.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3B9A7114.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7114.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3B9A7115.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7115.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3B9A7116.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7116.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3B9A7117.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7117.JPG" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,11 +57,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "com.google.services.firebase.aqiPopupShown": "true",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
@@ -110,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735121175090</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init">
+      <option name="closed" value="true" />
+      <created>1735123479085</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735123479085</updated>
+    </task>
+    <task id="LOCAL-00007" summary="try">
+      <option name="closed" value="true" />
+      <created>1735123595604</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735123595604</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +152,8 @@
     <MESSAGE value="removee" />
     <MESSAGE value="part 1" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="init" />
+    <MESSAGE value="try" />
+    <option name="LAST_COMMIT_MESSAGE" value="try" />
   </component>
 </project>
