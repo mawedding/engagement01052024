@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba97b948-72e3-4758-8255-41e149a9d720" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7221.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7222.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7223.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7224.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7225.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7226.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7227.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7228.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7229.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7230.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7241.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7242.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7244.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7245.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7246.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7248.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7249.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7250.JPG" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,7 +276,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735125549819</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="85">
+      <option name="closed" value="true" />
+      <created>1735125704832</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1735125704832</updated>
+    </task>
+    <task id="LOCAL-00026" summary="85">
+      <option name="closed" value="true" />
+      <created>1735125876531</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1735125876531</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
