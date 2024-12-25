@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba97b948-72e3-4758-8255-41e149a9d720" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/3B9A7113.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7113.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3B9A7114.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7114.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3B9A7115.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7115.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3B9A7116.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7116.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3B9A7117.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7117.JPG" afterDir="false" />
-    </list>
+    <list default="true" id="ba97b948-72e3-4758-8255-41e149a9d720" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +61,11 @@
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/engagement_part_1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -132,7 +131,31 @@
       <option name="project" value="LOCAL" />
       <updated>1735123595604</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="change">
+      <option name="closed" value="true" />
+      <created>1735123966427</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735123966427</updated>
+    </task>
+    <task id="LOCAL-00009" summary="23">
+      <option name="closed" value="true" />
+      <created>1735124025689</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735124025689</updated>
+    </task>
+    <task id="LOCAL-00010" summary="29">
+      <option name="closed" value="true" />
+      <created>1735124151653</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735124151653</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +177,9 @@
     <MESSAGE value="1" />
     <MESSAGE value="init" />
     <MESSAGE value="try" />
-    <option name="LAST_COMMIT_MESSAGE" value="try" />
+    <MESSAGE value="change" />
+    <MESSAGE value="23" />
+    <MESSAGE value="29" />
+    <option name="LAST_COMMIT_MESSAGE" value="29" />
   </component>
 </project>
