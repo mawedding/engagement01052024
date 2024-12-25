@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba97b948-72e3-4758-8255-41e149a9d720" name="Changes" comment="" />
+    <list default="true" id="ba97b948-72e3-4758-8255-41e149a9d720" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7156.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7158.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7159.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7160.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7161.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7162.JPG" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +162,39 @@
       <option name="project" value="LOCAL" />
       <updated>1735124151653</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="34">
+      <option name="closed" value="true" />
+      <created>1735124282854</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735124282854</updated>
+    </task>
+    <task id="LOCAL-00012" summary="40">
+      <option name="closed" value="true" />
+      <created>1735124408681</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735124408681</updated>
+    </task>
+    <task id="LOCAL-00013" summary="49">
+      <option name="closed" value="true" />
+      <created>1735124471926</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735124471926</updated>
+    </task>
+    <task id="LOCAL-00014" summary="new">
+      <option name="closed" value="true" />
+      <created>1735124538382</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735124538382</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +219,10 @@
     <MESSAGE value="change" />
     <MESSAGE value="23" />
     <MESSAGE value="29" />
-    <option name="LAST_COMMIT_MESSAGE" value="29" />
+    <MESSAGE value="34" />
+    <MESSAGE value="40" />
+    <MESSAGE value="49" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
 </project>
