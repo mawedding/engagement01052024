@@ -5,7 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba97b948-72e3-4758-8255-41e149a9d720" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7416.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7417.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7418.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7419.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7420.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7421.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7423.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7424.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7425.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7426.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7427.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7428.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7429.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7432.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7434.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7435.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7436.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7437.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7441.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7442.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7444.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engagement_part_1/3B9A7445.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +98,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735103890767</updated>
-    </task>
-    <task id="LOCAL-00004" summary="part 1">
-      <option name="closed" value="true" />
-      <created>1735121089525</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1735121089525</updated>
     </task>
     <task id="LOCAL-00005" summary="1">
       <option name="closed" value="true" />
@@ -469,7 +483,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735129450283</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="missing">
+      <option name="closed" value="true" />
+      <created>1735131841203</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1735131841203</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,6 +524,7 @@
     <MESSAGE value="70" />
     <MESSAGE value="10" />
     <MESSAGE value="85" />
-    <option name="LAST_COMMIT_MESSAGE" value="85" />
+    <MESSAGE value="missing" />
+    <option name="LAST_COMMIT_MESSAGE" value="missing" />
   </component>
 </project>
